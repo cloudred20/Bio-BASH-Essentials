@@ -7,9 +7,9 @@ On Mac or Linux machines, open a terminal and enter the following:
 ssh <username>@<hostname_or_ip_address>
 ```
 * ssh: The command that starts the Secure Shell client.  
-* <username>: Your unique identifier or Net ID on the remote system.  
-* <hostname_or_ip_address>: The address of the remote machine you are trying to reach  
-* Once you execute the SSH command, the system will prompt you to enter your password for the remote account. 
-* Enter your password and press Enter. Note that no characters will appear on the screen as you type.
+* username: Your unique identifier on the remote system.  
+* hostname_or_ip_address: The address of the remote machine you are trying to reach
+
+Once you execute the SSH command, the system will prompt you to enter your password for the remote account. Enter your password and press Enter. Note that no characters will appear on the screen as you type.
 
 2. 
