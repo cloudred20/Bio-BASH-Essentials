@@ -1,4 +1,4 @@
-# Bio-BASH-Essentials
+# HPC-essentials
 Fundamental BASH shell scripts designed to perform essential, daily command-line tasks.  
 
 * `dos2unix scriptname.sh` : ensure scripts are runnable on UNIX/Linux by fixing line endings
