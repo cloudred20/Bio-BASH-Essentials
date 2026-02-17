@@ -1,4 +1,4 @@
-## HPCand Nextflow Toolkit
+## HPC and Nextflow Toolkit
 
 This repository brings together two practical resources for running computational biology and data science workflows on HPC systems:
 
