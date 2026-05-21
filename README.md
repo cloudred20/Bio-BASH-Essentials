@@ -1,4 +1,4 @@
-# Under Construction: Expected release: Q3 2026.
+# Under Construction: Expected release: Q2 2026.
 
 ## HPC and Nextflow Toolkit
 
